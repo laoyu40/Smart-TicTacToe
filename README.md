@@ -1,4 +1,5 @@
 # Smart-TicTacToe
+`Scratch` `小游戏` `mini game`
 ## English Introduce
     I coded this project with Scratch3.0. It's a casual game. 
     This is a Tic-Tac-Toe game that requires two people to play. 
